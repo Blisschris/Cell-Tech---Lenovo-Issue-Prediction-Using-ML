@@ -1,0 +1,121 @@
+Model,Processor,RAM (GB),Battery Life (hrs),Screen Size (inches),Price (USD),Issue_Type
+IdeaPad,Ryzen 7,8,4,15.6,750,Hard Drive Failure
+ThinkPad,Ryzen 5,16,6,13.3,436,Overheating
+IdeaPad,i3,4,2,13.3,514,Overheating
+ThinkBook,i3,16,10,14.0,1208,Hard Drive Failure
+IdeaPad,Ryzen 7,32,4,14.0,574,Display Issue
+ThinkPad,Ryzen 5,8,10,17.0,1595,Hard Drive Failure
+ThinkBook,i7,16,8,17.0,1287,Battery Issue
+ThinkBook,i5,16,6,17.0,1393,Overheating
+Legion,Ryzen 7,32,4,13.3,765,Display Issue
+Legion,i5,16,10,17.0,466,Display Issue
+Legion,Ryzen 7,4,6,14.0,592,Battery Issue
+Legion,i3,8,8,17.0,809,Hard Drive Failure
+IdeaPad,i3,8,8,14.0,1150,Motherboard Failure
+Legion,i5,32,2,15.6,519,Motherboard Failure
+IdeaPad,Ryzen 5,4,2,14.0,1181,Display Issue
+ThinkPad,Ryzen 7,8,4,17.0,994,Motherboard Failure
+Yoga,Ryzen 7,32,6,17.0,895,Hard Drive Failure
+ThinkBook,i5,8,2,17.0,1326,Hard Drive Failure
+Legion,Ryzen 5,16,2,14.0,831,Overheating
+IdeaPad,i5,16,10,15.6,1474,Overheating
+Legion,i7,32,10,17.0,1031,Motherboard Failure
+ThinkBook,Ryzen 5,4,4,13.3,791,Motherboard Failure
+ThinkPad,i5,32,6,15.6,1239,Motherboard Failure
+ThinkBook,Ryzen 7,16,4,14.0,1188,Battery Issue
+Yoga,Ryzen 7,32,8,15.6,1260,Overheating
+Legion,Ryzen 7,16,2,15.6,413,Overheating
+ThinkBook,i3,8,10,17.0,1086,Overheating
+ThinkPad,i7,16,6,15.6,1139,Hard Drive Failure
+Legion,Ryzen 7,16,10,14.0,1080,Display Issue
+IdeaPad,i7,32,2,15.6,1210,Hard Drive Failure
+ThinkPad,i7,32,8,14.0,560,Hard Drive Failure
+ThinkBook,i3,8,6,14.0,1411,Display Issue
+ThinkBook,i5,32,4,14.0,678,Hard Drive Failure
+ThinkBook,Ryzen 7,32,2,15.6,1071,Hard Drive Failure
+Yoga,Ryzen 7,16,10,17.0,703,Display Issue
+ThinkPad,Ryzen 7,4,6,13.3,943,Display Issue
+ThinkPad,i5,16,8,13.3,1157,Hard Drive Failure
+ThinkBook,i5,16,6,17.0,1457,Hard Drive Failure
+IdeaPad,i3,16,2,13.3,747,Motherboard Failure
+Yoga,Ryzen 7,32,10,17.0,1221,Motherboard Failure
+Legion,Ryzen 7,16,8,14.0,1600,Battery Issue
+IdeaPad,Ryzen 5,32,2,13.3,779,Hard Drive Failure
+Legion,i5,8,6,13.3,1592,Overheating
+IdeaPad,i7,8,10,14.0,1385,Motherboard Failure
+Yoga,Ryzen 7,16,8,14.0,1444,Battery Issue
+IdeaPad,Ryzen 5,4,10,15.6,839,Overheating
+ThinkBook,Ryzen 7,16,6,14.0,830,Motherboard Failure
+ThinkBook,Ryzen 7,32,8,13.3,1034,Hard Drive Failure
+ThinkBook,Ryzen 5,8,4,13.3,1428,Overheating
+Legion,Ryzen 5,16,4,14.0,708,Hard Drive Failure
+ThinkPad,i7,8,6,17.0,735,Motherboard Failure
+Legion,i3,8,2,14.0,786,Hard Drive Failure
+ThinkPad,Ryzen 7,32,10,14.0,1174,Battery Issue
+IdeaPad,Ryzen 7,8,4,14.0,596,Motherboard Failure
+IdeaPad,i7,4,2,14.0,1505,Display Issue
+Legion,i3,32,2,14.0,1329,Motherboard Failure
+Legion,i5,8,4,15.6,822,Overheating
+Legion,i7,4,2,14.0,768,Hard Drive Failure
+ThinkBook,Ryzen 7,4,4,13.3,1246,Display Issue
+Legion,Ryzen 5,4,4,15.6,1458,Display Issue
+ThinkBook,i7,8,10,14.0,992,Overheating
+IdeaPad,i3,32,2,14.0,473,Display Issue
+ThinkPad,i7,16,10,17.0,1485,Battery Issue
+Legion,Ryzen 7,8,10,14.0,1263,Battery Issue
+Legion,Ryzen 7,32,8,13.3,899,Battery Issue
+IdeaPad,i7,8,4,14.0,758,Display Issue
+IdeaPad,i5,16,4,13.3,911,Overheating
+Yoga,i3,4,4,13.3,1173,Display Issue
+ThinkBook,Ryzen 5,4,8,15.6,648,Display Issue
+Legion,Ryzen 7,32,6,15.6,1302,Motherboard Failure
+IdeaPad,i5,32,8,14.0,655,Display Issue
+Legion,i5,32,8,17.0,1214,Motherboard Failure
+Legion,i5,8,8,17.0,1439,Hard Drive Failure
+IdeaPad,i3,32,10,13.3,1176,Overheating
+IdeaPad,i7,4,8,15.6,1416,Hard Drive Failure
+Yoga,i3,4,10,15.6,899,Overheating
+ThinkPad,Ryzen 5,16,10,13.3,1447,Battery Issue
+ThinkPad,i7,16,4,14.0,626,Display Issue
+IdeaPad,i5,4,6,14.0,1573,Hard Drive Failure
+ThinkPad,Ryzen 5,16,10,13.3,980,Battery Issue
+Yoga,i3,16,2,14.0,812,Display Issue
+IdeaPad,Ryzen 7,4,4,14.0,1267,Battery Issue
+ThinkPad,i5,16,2,13.3,1249,Overheating
+IdeaPad,Ryzen 5,16,2,14.0,878,Motherboard Failure
+Legion,i3,8,2,17.0,1248,Hard Drive Failure
+ThinkPad,i3,32,2,14.0,892,Battery Issue
+Yoga,i3,32,4,17.0,575,Overheating
+ThinkBook,i5,8,6,17.0,1535,Overheating
+Yoga,Ryzen 7,4,8,14.0,1441,Display Issue
+ThinkBook,Ryzen 7,32,2,13.3,1019,Battery Issue
+Yoga,i3,32,4,15.6,1297,Display Issue
+ThinkPad,i7,16,10,15.6,1257,Battery Issue
+ThinkBook,Ryzen 5,8,6,13.3,1355,Display Issue
+IdeaPad,Ryzen 5,8,10,14.0,1197,Display Issue
+ThinkPad,Ryzen 5,4,6,17.0,1587,Overheating
+ThinkBook,i7,32,10,17.0,824,Motherboard Failure
+ThinkPad,i7,4,4,17.0,1013,Hard Drive Failure
+IdeaPad,Ryzen 7,4,4,15.6,1484,Hard Drive Failure
+Legion,i3,4,2,15.6,417,Display Issue
+Yoga,i5,8,4,15.6,758,Hard Drive Failure
+ThinkPad,i7,16,4,15.6,486,Overheating
+IdeaPad,Ryzen 5,8,8,13.3,1197,Overheating
+Yoga,i7,16,6,17.0,1306,Motherboard Failure
+ThinkBook,i3,4,2,13.3,1138,Motherboard Failure
+Yoga,Ryzen 7,8,8,13.3,775,Hard Drive Failure
+IdeaPad,i5,4,4,14.0,1068,Overheating
+ThinkBook,i3,16,4,14.0,1415,Hard Drive Failure
+ThinkPad,Ryzen 7,8,4,15.6,1462,Battery Issue
+ThinkPad,Ryzen 7,4,6,17.0,1446,Overheating
+ThinkPad,Ryzen 5,16,8,13.3,1031,Motherboard Failure
+Legion,Ryzen 7,16,4,14.0,888,Hard Drive Failure
+Yoga,Ryzen 7,16,10,17.0,416,Overheating
+ThinkPad,Ryzen 5,32,10,17.0,582,Display Issue
+IdeaPad,Ryzen 7,16,8,17.0,921,Display Issue
+Yoga,Ryzen 7,32,8,17.0,1472,Hard Drive Failure
+ThinkPad,i7,8,6,14.0,1132,Battery Issue
+IdeaPad,i5,4,4,14.0,1584,Hard Drive Failure
+ThinkPad,i3,32,4,17.0,414,Display Issue
+IdeaPad,i3,4,2,15.6,520,Display Issue
+Yoga,Ryzen 5,4,4,13.3,611,Display Issue
